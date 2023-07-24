@@ -1,6 +1,6 @@
 # Temario git  2
 
-![Proteco](C:\Users\unaso\Documents\10%20Cursos\27%20GIT%20II\Clase%201\ejercicio%20mark%20down\img\PROTECO01.jpg)
+![Proteco](img/PROTECO01.jpg)
 
 
 
