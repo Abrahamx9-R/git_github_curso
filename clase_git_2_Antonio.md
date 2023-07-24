@@ -1,19 +1,8 @@
 # Temario git  2
 
-<div>
-<table>
-<tbody>
-<tr>
-<td>
-<a title="Qtile" href="http://www.qtile.org"><img src="https://raw.githubusercontent.com/qtile/qtile/master/logo.png" alt="Ubuntu"  width="350px"  /></a>
-</td>
-<td>
-<a title="Ubuntu" href="https://ubuntu.com/#download"><img src="https://revistadigital.inesem.es/informatica-y-tics/files/2015/03/ubuntu-INESEM-1024x768.jpg" alt="Ubuntu"  width="350px"  /></a>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
+![Proteco](C:\Users\unaso\Documents\10%20Cursos\27%20GIT%20II\Clase%201\ejercicio%20mark%20down\img\PROTECO01.jpg)
+
+
 
 
 
@@ -34,6 +23,10 @@ Este es el temario guía para el curso de git 2
 
 
 
+----
+
+
+
 # 2. Trabajo con herramientas avanzadas.
 
 ● ¿Como guardar cambios temporales con stash?
@@ -43,11 +36,12 @@ Este es el temario guía para el curso de git 2
 
 
 
+----
+
+
+
 # 3. Trabajo en equipo.
 
-
-
- 
 ● Colaboración con otros desarrolladores usando un flujo de trabajo (workflow)
 adecuado.
 ● Asignación de roles y permisos.
@@ -55,5 +49,7 @@ adecuado.
 ● Revisión de códigos y comentarios.
 
 
+
+----
 
 
