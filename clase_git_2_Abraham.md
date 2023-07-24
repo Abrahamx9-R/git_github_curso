@@ -10,6 +10,10 @@
 <a title="Github" href="https://github.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="Ubuntu"  width="350px"  /></a>
 </td>
+<td>
+<a title="proteco" href="https://proteco.fi-b.unam.mx/home">
+<img src="img/PROTECO01.jpg" alt="Proteco"  width="350px"  /></a>
+</td>
 </tr>
 </tbody>
 </table>
@@ -20,7 +24,7 @@
 
 ----
 
-# 1. Trabajo con el historial.
+# 1. Trabajo con el historial. 🐸
 
 - ¿Como reescribir el historial con amend y rebase interactivo?
 - ¿Como revertir y restaurar cambios con revert y reset?
@@ -28,7 +32,7 @@
 
 ---
 
-# 2. Trabajo con herramientas avanzadas.
+# 2. Trabajo con herramientas avanzadas. 🐫
 
 * ¿Como guardar cambios temporales con stash?
 
@@ -40,7 +44,7 @@
 
 ---
 
-# 3. Trabajo en equipo.
+# 3. Trabajo en equipo. 🌒
 
 * Colaboración con otros desarrolladores usando un flujo de trabajo (workflow)
   adecuado.
@@ -50,6 +54,20 @@
 * Uso de etiquetas e hitos.
 
 * Revisión de códigos y comentarios.
+
+---
+
+# 4. Buenas prácticas de git y github. ✨
+
+* Escribir mensajes de commit claros y concisos.
+
+* Uso de estilo de código consistente.
+
+* Documentación de proyectos con README.md y otros archivos.
+
+* Uso de licencias y códigos de conducta.
+
+* Configuración y personalización de perfil en github.
 
 ---
 
