@@ -40,8 +40,21 @@
 
 ---
 
+# 3. Trabajo en equipo.
+
+* Colaboración con otros desarrolladores usando un flujo de trabajo (workflow)
+  adecuado.
+
+* Asignación de roles y permisos.
+
+* Uso de etiquetas e hitos.
+
+* Revisión de códigos y comentarios.
+
+---
 
 
- 
+
+
 
 
