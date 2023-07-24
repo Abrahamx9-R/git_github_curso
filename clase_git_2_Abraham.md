@@ -28,6 +28,18 @@
 
 ---
 
+# 2. Trabajo con herramientas avanzadas.
+
+* ¿Como guardar cambios temporales con stash?
+
+* Aplicación de cambios selectivos con cherry-pick
+
+*  Uso de hooks y alias para automatizar tareas.
+
+*  ¿Como trabajar con submódulos y subtrees?.
+
+---
+
 
 
  
